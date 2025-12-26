@@ -1,0 +1,4512 @@
+{
+  "nodes": [
+    {
+      "id": 0,
+      "labels": [
+        "Paper"
+      ],
+      "properties": {
+        "title": "Paper 1"
+      }
+    },
+    {
+      "id": 1,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "Categ"
+      }
+    },
+    {
+      "id": 2,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "Cccts"
+      }
+    },
+    {
+      "id": 3,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "Fam\u03a0L"
+      }
+    },
+    {
+      "id": 4,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "yA id\u03bbA '"
+      }
+    },
+    {
+      "id": 5,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "X\u27e9is"
+      }
+    },
+    {
+      "id": 6,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "RL"
+      }
+    },
+    {
+      "id": 7,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "Algebras"
+      }
+    },
+    {
+      "id": 8,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "yA."
+      }
+    },
+    {
+      "id": 9,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "S. R. Koudenburg"
+      }
+    },
+    {
+      "id": 10,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "T yA"
+      }
+    },
+    {
+      "id": 11,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "PmA"
+      }
+    },
+    {
+      "id": 12,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "S. Lack"
+      }
+    },
+    {
+      "id": 13,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "Tbilisi Math"
+      }
+    },
+    {
+      "id": 14,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "J. Kock"
+      }
+    },
+    {
+      "id": 15,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "J. Algebra"
+      }
+    },
+    {
+      "id": 16,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "\u2707 \u2707 \u2707 \u2707 \u2707 \u2707 \u2707 \u2707 \u2707 x /"
+      }
+    },
+    {
+      "id": 17,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "eP."
+      }
+    },
+    {
+      "id": 18,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "N. Gambino"
+      }
+    },
+    {
+      "id": 19,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "R. Pare"
+      }
+    },
+    {
+      "id": 20,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "Lemma 41"
+      }
+    },
+    {
+      "id": 21,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "Computer Science"
+      }
+    },
+    {
+      "id": 22,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "z."
+      }
+    },
+    {
+      "id": 23,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "M. Hyland"
+      }
+    },
+    {
+      "id": 24,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "Span"
+      }
+    },
+    {
+      "id": 25,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "Py"
+      }
+    },
+    {
+      "id": 26,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "\u2707 \u2707 \u2707 \u2707 \u2707 \u2707 \u2707 \u2707 \u2707 \u2707 \u2707"
+      }
+    },
+    {
+      "id": 27,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "\u2707 \u2707 \u2707 \u2707 \u2707 \u2707 \u2707 \u2707 \u2707 \u21d1cF"
+      }
+    },
+    {
+      "id": 28,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "G. M. Kelly"
+      }
+    },
+    {
+      "id": 29,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "Kleisli"
+      }
+    },
+    {
+      "id": 30,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "P. Suppose"
+      }
+    },
+    {
+      "id": 31,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "Polyc"
+      }
+    },
+    {
+      "id": 32,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "B. Remark"
+      }
+    },
+    {
+      "id": 33,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "Gambino"
+      }
+    },
+    {
+      "id": 34,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "M. Weber"
+      }
+    },
+    {
+      "id": 35,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "Sci"
+      }
+    },
+    {
+      "id": 36,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "ePlax"
+      }
+    },
+    {
+      "id": 37,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "\u2707 \u2707 \u2707 \u2707 \u2707 \u2707 \u2707 \u2707 \u2707 \u21d1"
+      }
+    },
+    {
+      "id": 38,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "R. D. Rosebrugh"
+      }
+    },
+    {
+      "id": 39,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "Kelly\u2019s"
+      }
+    },
+    {
+      "id": 40,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "\u03c3"
+      }
+    },
+    {
+      "id": 41,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "ePoplax"
+      }
+    },
+    {
+      "id": 42,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "Kock"
+      }
+    },
+    {
+      "id": 43,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "map yA"
+      }
+    },
+    {
+      "id": 44,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "W. Tholen"
+      }
+    },
+    {
+      "id": 45,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "I. arXiv:1603.06251"
+      }
+    },
+    {
+      "id": 46,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "Vol"
+      }
+    },
+    {
+      "id": 47,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "X\u27e9"
+      }
+    },
+    {
+      "id": 48,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "Ann"
+      }
+    },
+    {
+      "id": 49,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "P\u03bbA"
+      }
+    },
+    {
+      "id": 50,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "\u03bbL"
+      }
+    },
+    {
+      "id": 51,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "\u2707 \u2707 \u2707 \u2707 \u2707 \u2707 \u2707 \u2707 \u2707 T"
+      }
+    },
+    {
+      "id": 52,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "Lemma 39"
+      }
+    },
+    {
+      "id": 53,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "Beck"
+      }
+    },
+    {
+      "id": 54,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "X\u2208A"
+      }
+    },
+    {
+      "id": 55,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "V. Z\u00f6berlein"
+      }
+    },
+    {
+      "id": 56,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "Corollary 49"
+      }
+    },
+    {
+      "id": 57,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "Lax"
+      }
+    },
+    {
+      "id": 58,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "R. J. Wood"
+      }
+    },
+    {
+      "id": 59,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "resT yA = \u03bbA"
+      }
+    },
+    {
+      "id": 60,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "R. Walters"
+      }
+    },
+    {
+      "id": 61,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "R. Proof"
+      }
+    },
+    {
+      "id": 62,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "Algebraic Kan"
+      }
+    },
+    {
+      "id": 63,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "Michael Barr"
+      }
+    },
+    {
+      "id": 64,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "LX"
+      }
+    },
+    {
+      "id": 65,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "L. Moreover"
+      }
+    },
+    {
+      "id": 66,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "Di\ufb00\u00e9r"
+      }
+    },
+    {
+      "id": 67,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "resT L. Noting"
+      }
+    },
+    {
+      "id": 68,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "yA along L."
+      }
+    },
+    {
+      "id": 69,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "Freyd"
+      }
+    },
+    {
+      "id": 70,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "Lemma 59"
+      }
+    },
+    {
+      "id": 71,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "\u2742\u2742\u2742\u2742\u2742\u2742\u2742\u2742\u2742\u2742"
+      }
+    },
+    {
+      "id": 72,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "Px"
+      }
+    },
+    {
+      "id": 73,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "yA"
+      }
+    },
+    {
+      "id": 74,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "yA, \u03bex"
+      }
+    },
+    {
+      "id": 75,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "30 Note"
+      }
+    },
+    {
+      "id": 76,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "Proof"
+      }
+    },
+    {
+      "id": 77,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "J. Beck"
+      }
+    },
+    {
+      "id": 78,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "invertible6"
+      }
+    },
+    {
+      "id": 79,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "KZ"
+      }
+    },
+    {
+      "id": 80,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "Appl"
+      }
+    },
+    {
+      "id": 81,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "morphisms"
+      }
+    },
+    {
+      "id": 82,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "22 Note"
+      }
+    },
+    {
+      "id": 83,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "E. Cheng"
+      }
+    },
+    {
+      "id": 84,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "L."
+      }
+    },
+    {
+      "id": 85,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "L. Applying"
+      }
+    },
+    {
+      "id": 86,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "eP. Proof"
+      }
+    },
+    {
+      "id": 87,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "J. Pure Appl"
+      }
+    },
+    {
+      "id": 88,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "Kelly"
+      }
+    },
+    {
+      "id": 89,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "\u03b2 correspond"
+      }
+    },
+    {
+      "id": 90,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "\u2707 \u2707 \u2707 \u2707 \u2707 \u2707 \u2707 \u2707 \u2707"
+      }
+    },
+    {
+      "id": 91,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "\u03bbT"
+      }
+    },
+    {
+      "id": 92,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "F. Marmolejo"
+      }
+    },
+    {
+      "id": 93,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "Z\u00f6berlein"
+      }
+    },
+    {
+      "id": 94,
+      "labels": [
+        "Result"
+      ],
+      "properties": {
+        "text": "Our \ufb01rst improvement here is to show that an axiom concerning the DISTRIBUTIVE LAWS VIA ADMISSIBILITY 3 (co)KZ doctrine may be dropped, allowing us to generalize these results to pseudo- distributive laws of any pseudomonad over a KZ doctrine."
+      }
+    },
+    {
+      "id": 95,
+      "labels": [
+        "Paper"
+      ],
+      "properties": {
+        "title": "[9]"
+      }
+    },
+    {
+      "id": 96,
+      "labels": [
+        "Paper"
+      ],
+      "properties": {
+        "title": "[17]"
+      }
+    },
+    {
+      "id": 97,
+      "labels": [
+        "Paper"
+      ],
+      "properties": {
+        "title": "[7]"
+      }
+    },
+    {
+      "id": 98,
+      "labels": [
+        "Paper"
+      ],
+      "properties": {
+        "title": "[25]"
+      }
+    },
+    {
+      "id": 99,
+      "labels": [
+        "Paper"
+      ],
+      "properties": {
+        "title": "[8]"
+      }
+    },
+    {
+      "id": 100,
+      "labels": [
+        "Paper"
+      ],
+      "properties": {
+        "title": "[4]"
+      }
+    },
+    {
+      "id": 101,
+      "labels": [
+        "Paper"
+      ],
+      "properties": {
+        "title": "[13]"
+      }
+    },
+    {
+      "id": 102,
+      "labels": [
+        "Paper"
+      ],
+      "properties": {
+        "title": "[12]"
+      }
+    },
+    {
+      "id": 103,
+      "labels": [
+        "Paper"
+      ],
+      "properties": {
+        "title": "[27]"
+      }
+    },
+    {
+      "id": 104,
+      "labels": [
+        "Paper"
+      ],
+      "properties": {
+        "title": "[33]"
+      }
+    },
+    {
+      "id": 105,
+      "labels": [
+        "Paper"
+      ],
+      "properties": {
+        "title": "[2]"
+      }
+    },
+    {
+      "id": 106,
+      "labels": [
+        "Paper"
+      ],
+      "properties": {
+        "title": "[3]"
+      }
+    },
+    {
+      "id": 107,
+      "labels": [
+        "Paper"
+      ],
+      "properties": {
+        "title": "[18]"
+      }
+    },
+    {
+      "id": 108,
+      "labels": [
+        "Paper"
+      ],
+      "properties": {
+        "title": "[10]"
+      }
+    },
+    {
+      "id": 109,
+      "labels": [
+        "Paper"
+      ],
+      "properties": {
+        "title": "[26]"
+      }
+    },
+    {
+      "id": 110,
+      "labels": [
+        "Paper"
+      ],
+      "properties": {
+        "title": "[30]"
+      }
+    },
+    {
+      "id": 111,
+      "labels": [
+        "Paper"
+      ],
+      "properties": {
+        "title": "[20]"
+      }
+    },
+    {
+      "id": 112,
+      "labels": [
+        "Paper"
+      ],
+      "properties": {
+        "title": "[11]"
+      }
+    },
+    {
+      "id": 113,
+      "labels": [
+        "Paper"
+      ],
+      "properties": {
+        "title": "[14]"
+      }
+    },
+    {
+      "id": 114,
+      "labels": [
+        "Paper"
+      ],
+      "properties": {
+        "title": "[22]"
+      }
+    },
+    {
+      "id": 115,
+      "labels": [
+        "Paper"
+      ],
+      "properties": {
+        "title": "[15]"
+      }
+    },
+    {
+      "id": 116,
+      "labels": [
+        "Paper"
+      ],
+      "properties": {
+        "title": "[5]"
+      }
+    },
+    {
+      "id": 117,
+      "labels": [
+        "Paper"
+      ],
+      "properties": {
+        "title": "[28]"
+      }
+    },
+    {
+      "id": 118,
+      "labels": [
+        "Paper"
+      ],
+      "properties": {
+        "title": "[21]"
+      }
+    },
+    {
+      "id": 119,
+      "labels": [
+        "Paper"
+      ],
+      "properties": {
+        "title": "[19]"
+      }
+    },
+    {
+      "id": 120,
+      "labels": [
+        "Paper"
+      ],
+      "properties": {
+        "title": "[24]"
+      }
+    },
+    {
+      "id": 121,
+      "labels": [
+        "Paper"
+      ],
+      "properties": {
+        "title": "[23]"
+      }
+    },
+    {
+      "id": 122,
+      "labels": [
+        "Paper"
+      ],
+      "properties": {
+        "title": "[31]"
+      }
+    },
+    {
+      "id": 123,
+      "labels": [
+        "Paper"
+      ],
+      "properties": {
+        "title": "[32]"
+      }
+    },
+    {
+      "id": 124,
+      "labels": [
+        "Paper"
+      ],
+      "properties": {
+        "title": "[16]"
+      }
+    },
+    {
+      "id": 125,
+      "labels": [
+        "Paper"
+      ],
+      "properties": {
+        "title": "[29]"
+      }
+    },
+    {
+      "id": 126,
+      "labels": [
+        "Paper"
+      ],
+      "properties": {
+        "title": "[6]"
+      }
+    },
+    {
+      "id": 127,
+      "labels": [
+        "Paper"
+      ],
+      "properties": {
+        "title": "[1]"
+      }
+    },
+    {
+      "id": 128,
+      "labels": [
+        "Paper"
+      ],
+      "properties": {
+        "title": "Paper2"
+      }
+    },
+    {
+      "id": 129,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "\u00d74"
+      }
+    },
+    {
+      "id": 130,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "K. Zhang"
+      }
+    },
+    {
+      "id": 131,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "J. Sun"
+      }
+    },
+    {
+      "id": 132,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "VDSR/25.94 DRCN/25.94"
+      }
+    },
+    {
+      "id": 133,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "Zheng Liu"
+      }
+    },
+    {
+      "id": 134,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "C. Leistner"
+      }
+    },
+    {
+      "id": 135,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "I. Frosio"
+      }
+    },
+    {
+      "id": 136,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "Zhen Li"
+      }
+    },
+    {
+      "id": 137,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "Weiguo Gong"
+      }
+    },
+    {
+      "id": 138,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "C. Dong"
+      }
+    },
+    {
+      "id": 139,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "M. Yang"
+      }
+    },
+    {
+      "id": 140,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "R. Keys"
+      }
+    },
+    {
+      "id": 141,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "G. Shakhnarovich"
+      }
+    },
+    {
+      "id": 142,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "Z. Huang"
+      }
+    },
+    {
+      "id": 143,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "B. Yegnanarayana"
+      }
+    },
+    {
+      "id": 144,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "J. Deng"
+      }
+    },
+    {
+      "id": 145,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "W. Han"
+      }
+    },
+    {
+      "id": 146,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "Kim et al"
+      }
+    },
+    {
+      "id": 147,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "Cubic"
+      }
+    },
+    {
+      "id": 148,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "Dong et al"
+      }
+    },
+    {
+      "id": 149,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "H. Zhang"
+      }
+    },
+    {
+      "id": 150,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "Ours Ground-truth"
+      }
+    },
+    {
+      "id": 151,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "Grant Nos"
+      }
+    },
+    {
+      "id": 152,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "X. Li"
+      }
+    },
+    {
+      "id": 153,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "D. Tao"
+      }
+    },
+    {
+      "id": 154,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "Kim"
+      }
+    },
+    {
+      "id": 155,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "Lai et al"
+      }
+    },
+    {
+      "id": 156,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "X. Zhang"
+      }
+    },
+    {
+      "id": 157,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "Y. Tai"
+      }
+    },
+    {
+      "id": 158,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "P. M. Atkinson"
+      }
+    },
+    {
+      "id": 159,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "W. Shi"
+      }
+    },
+    {
+      "id": 160,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "M. S. Brown"
+      }
+    },
+    {
+      "id": 161,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "Shelhamer"
+      }
+    },
+    {
+      "id": 162,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "Y. Yeshurun"
+      }
+    },
+    {
+      "id": 163,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "Scale Bicubic"
+      }
+    },
+    {
+      "id": 164,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "T. Huang"
+      }
+    },
+    {
+      "id": 165,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "K. M. Lee"
+      }
+    },
+    {
+      "id": 166,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "Faen"
+      }
+    },
+    {
+      "id": 167,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "\ud835\udc7e\u0b37"
+      }
+    },
+    {
+      "id": 168,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "X. Wu"
+      }
+    },
+    {
+      "id": 169,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "M. Bernstein"
+      }
+    },
+    {
+      "id": 170,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "S. Schulter"
+      }
+    },
+    {
+      "id": 171,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "Q. Gao"
+      }
+    },
+    {
+      "id": 172,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "J.-B. Huang"
+      }
+    },
+    {
+      "id": 173,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "\u0398\u0d6f\u1241\u2212E\u0d6b\ud835\udc99\u0bdc\u0d6f\u125b"
+      }
+    },
+    {
+      "id": 174,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "N. Ahuja"
+      }
+    },
+    {
+      "id": 175,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "A. U. Batur"
+      }
+    },
+    {
+      "id": 176,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "L. Van Gool"
+      }
+    },
+    {
+      "id": 177,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "N. Akhtar"
+      }
+    },
+    {
+      "id": 178,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "Tel"
+      }
+    },
+    {
+      "id": 179,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "\ud835\udc41"
+      }
+    },
+    {
+      "id": 180,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "Y. Tang"
+      }
+    },
+    {
+      "id": 181,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "Faen Zhang"
+      }
+    },
+    {
+      "id": 182,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "Jinglei Yang"
+      }
+    },
+    {
+      "id": 183,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "Gwanggil Jeon"
+      }
+    },
+    {
+      "id": 184,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "Y. Altunbasak"
+      }
+    },
+    {
+      "id": 185,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "S. Liu"
+      }
+    },
+    {
+      "id": 186,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "S. Ren"
+      }
+    },
+    {
+      "id": 187,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "A. K. Sao"
+      }
+    },
+    {
+      "id": 188,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "Donahue"
+      }
+    },
+    {
+      "id": 189,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "Significance"
+      }
+    },
+    {
+      "id": 190,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "X. Liu"
+      }
+    },
+    {
+      "id": 191,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "Lim et al"
+      }
+    },
+    {
+      "id": 192,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "S. Xiang"
+      }
+    },
+    {
+      "id": 193,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "J. Caballer"
+      }
+    },
+    {
+      "id": 194,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "A. Khosla"
+      }
+    },
+    {
+      "id": 195,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "W. Gong"
+      }
+    },
+    {
+      "id": 196,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "H. Su"
+      }
+    },
+    {
+      "id": 197,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "C. Couprie"
+      }
+    },
+    {
+      "id": 198,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "M. Haris"
+      }
+    },
+    {
+      "id": 199,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "Y. Ma"
+      }
+    },
+    {
+      "id": 200,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "Bee"
+      }
+    },
+    {
+      "id": 201,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "A. Singh"
+      }
+    },
+    {
+      "id": 202,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "M. W. Thornton"
+      }
+    },
+    {
+      "id": 203,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "B. K. Gunturk"
+      }
+    },
+    {
+      "id": 204,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "J. Yang"
+      }
+    },
+    {
+      "id": 205,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "W. Lai"
+      }
+    },
+    {
+      "id": 206,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "P. Li"
+      }
+    },
+    {
+      "id": 207,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "V. De Smet"
+      }
+    },
+    {
+      "id": 208,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "J. Krause"
+      }
+    },
+    {
+      "id": 209,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "S. Lin"
+      }
+    },
+    {
+      "id": 210,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "al."
+      }
+    },
+    {
+      "id": 211,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "A. Karpathy"
+      }
+    },
+    {
+      "id": 212,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "E. Agustsson"
+      }
+    },
+    {
+      "id": 213,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "L. Zhang"
+      }
+    },
+    {
+      "id": 214,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "J. Wright"
+      }
+    },
+    {
+      "id": 215,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "L. Wang"
+      }
+    },
+    {
+      "id": 216,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "X. Tang"
+      }
+    },
+    {
+      "id": 217,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "N. Ukita"
+      }
+    },
+    {
+      "id": 218,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "O. Gallo"
+      }
+    },
+    {
+      "id": 219,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "Xiaomin Yang"
+      }
+    },
+    {
+      "id": 220,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "J. Kautz"
+      }
+    },
+    {
+      "id": 221,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "G. Li"
+      }
+    },
+    {
+      "id": 222,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "Jiashui Huang"
+      }
+    },
+    {
+      "id": 223,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "Yang"
+      }
+    },
+    {
+      "id": 224,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "J. K. Lee"
+      }
+    },
+    {
+      "id": 225,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "G. Meng"
+      }
+    },
+    {
+      "id": 226,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "H. Zhao"
+      }
+    },
+    {
+      "id": 227,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "C. C. Loy"
+      }
+    },
+    {
+      "id": 228,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "Y. LeCun"
+      }
+    },
+    {
+      "id": 229,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "J. Huang"
+      }
+    },
+    {
+      "id": 230,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "H. Bischof"
+      }
+    },
+    {
+      "id": 231,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "al"
+      }
+    },
+    {
+      "id": 232,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "D. a. Holland"
+      }
+    },
+    {
+      "id": 233,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "Z. Wang"
+      }
+    },
+    {
+      "id": 234,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "S. Ma"
+      }
+    },
+    {
+      "id": 235,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "Tai"
+      }
+    },
+    {
+      "id": 236,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "Edge Difference"
+      }
+    },
+    {
+      "id": 237,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "D. Liu"
+      }
+    },
+    {
+      "id": 238,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "T. S. Huang"
+      }
+    },
+    {
+      "id": 239,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "H. Shen"
+      }
+    },
+    {
+      "id": 240,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "O. Russakovsky"
+      }
+    },
+    {
+      "id": 241,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "Ledig et al"
+      }
+    },
+    {
+      "id": 242,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "Fig"
+      }
+    },
+    {
+      "id": 243,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "T. Tong"
+      }
+    },
+    {
+      "id": 244,
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "name": "X. Gao"
+      }
+    },
+    {
+      "id": 245,
+      "labels": [
+        "Method"
+      ],
+      "properties": {
+        "name": "CNN"
+      }
+    },
+    {
+      "id": 246,
+      "labels": [
+        "Method"
+      ],
+      "properties": {
+        "name": "Deep Neural Network"
+      }
+    },
+    {
+      "id": 247,
+      "labels": [
+        "Result"
+      ],
+      "properties": {
+        "text": "In this paper, we discuss a new SR architecture to resolve the dilemma between the reconstruction accuracy and efficiency."
+      }
+    },
+    {
+      "id": 248,
+      "labels": [
+        "Result"
+      ],
+      "properties": {
+        "text": "However, the model with the bottleneck residual units has improved performance due to the increase of network depth."
+      }
+    },
+    {
+      "id": 249,
+      "labels": [
+        "Result"
+      ],
+      "properties": {
+        "text": "Considering that the researchers [22, 24] report that training with L1 norm achieve improved performance compared with the training with L2, we empirically set \ud835\udc5d to 1 for our edge difference constraint."
+      }
+    },
+    {
+      "id": 250,
+      "labels": [
+        "Result"
+      ],
+      "properties": {
+        "text": "4.3 Super-resolving on real-world images In this section, we further validate the super-resolving performance of the proposed method on the historical photographs with JPEG compression artifacts."
+      }
+    },
+    {
+      "id": 251,
+      "labels": [
+        "Result"
+      ],
+      "properties": {
+        "text": "Deep Residual Networks with a Fully Connected Reconstruction Layer for Single Image Super-Resolution Yongliang Tang1, Jiashui Huang1, Faen Zhang1*, Weiguo Gong2 1AInnovation Co. Ltd, Beijing 100089, China 2Key Lab of Optoelectronic Technology & Systems of Education Ministry, Chongqing University, Chongqing 400044, China Correspondence information: Faen Zhang, AInnovation Co. Ltd, Beijing 100089, China, zhangfaen@ainnovation.com, Deep Residual Networks with a Fully Connected Reconstruction Layer for Single Image Super-Resolution Yongliang Tang1, Jiashui Huang1, Faen Zhang1*, Weiguo Gong2 1AInnovation Co. Ltd, Beijing 100089, China 2Key Lab of Optoelectronic Technology & Systems of Education Ministry, Chongqing University, Chongqing 400044, China Recently, deep neural networks have achieved impressive performance in terms of both reconstruction accuracy and efficiency for single image super-resolution (SISR)."
+      }
+    },
+    {
+      "id": 252,
+      "labels": [
+        "Result"
+      ],
+      "properties": {
+        "text": "The training of scratch network uses momentum with a decay of 0.9, while our fine-tuned models are achieved using RMSProp with decay of 0.9 and \u03f5 = 1.0."
+      }
+    },
+    {
+      "id": 253,
+      "labels": [
+        "Result"
+      ],
+      "properties": {
+        "text": "Although VDSR significantly improves the reconstruction accuracy, the computation time and memory usage also increase with the depth of network."
+      }
+    },
+    {
+      "id": 254,
+      "labels": [
+        "Result"
+      ],
+      "properties": {
+        "text": "Inspired by the report that training with L2 loss cannot guarantee better performance compared to other loss functions in terms of PSNR and SSIM [26], Lim et al."
+      }
+    },
+    {
+      "id": 255,
+      "labels": [
+        "Result"
+      ],
+      "properties": {
+        "text": "However, our networks improve accuracy by exploiting global context information, as illustrated in Fig.1."
+      }
+    },
+    {
+      "id": 256,
+      "labels": [
+        "Result"
+      ],
+      "properties": {
+        "text": "Although our final model (red curve) fluctuates \u201csignificantly\u201d, it can obtain the improved performance in terms of reconstruction accuracy."
+      }
+    },
+    {
+      "id": 257,
+      "labels": [
+        "Result"
+      ],
+      "properties": {
+        "text": "From the Table 2, our SR models achieve an improved performance with the increase of training images and have comparable PSNR and SSIM results with the comparative SR methods: MemNet [36], EDSR"
+      }
+    },
+    {
+      "id": 258,
+      "labels": [
+        "Result"
+      ],
+      "properties": {
+        "text": "Obviously, with the transferred parameters, the network converges very fast (only a few epochs) with the same good performance as that training from scratch."
+      }
+    },
+    {
+      "id": 259,
+      "labels": [
+        "Result"
+      ],
+      "properties": {
+        "text": "In the convolutional networks, model performance can be enhanced by cascading multiple small filters in a deep network structure."
+      }
+    },
+    {
+      "id": 260,
+      "labels": [
+        "Result"
+      ],
+      "properties": {
+        "text": "For our proposed models, we use a new residual unit to improve the SR accuracy."
+      }
+    },
+    {
+      "id": 261,
+      "labels": [
+        "Result"
+      ],
+      "properties": {
+        "text": "Due to the limitations of the training images, the performance of all methods tends to decline with the increase of the test images."
+      }
+    },
+    {
+      "id": 262,
+      "labels": [
+        "Result"
+      ],
+      "properties": {
+        "text": "Because neither the ground-truth HR images nor the downsampling kernels are available, our experiment can demonstrate the super-resolving performance of the proposed and compared methods on the real-word images."
+      }
+    },
+    {
+      "id": 263,
+      "labels": [
+        "Result"
+      ],
+      "properties": {
+        "text": "By doing so, LapSRN improves accuracy without increasing computational burden."
+      }
+    },
+    {
+      "id": 264,
+      "labels": [
+        "Result"
+      ],
+      "properties": {
+        "text": "From Table 1, we can see that the proposed method achieves the consistent performance on all the datasets."
+      }
+    },
+    {
+      "id": 265,
+      "labels": [
+        "Result"
+      ],
+      "properties": {
+        "text": "Thus, these methods still exhibit limitations in terms of balancing the reconstruction accuracy and efficiency."
+      }
+    },
+    {
+      "id": 266,
+      "labels": [
+        "Result"
+      ],
+      "properties": {
+        "text": "Among them, the deep neural network (DNN) has drawn considerable attention due to its simple architecture and excellent performance."
+      }
+    },
+    {
+      "id": 267,
+      "labels": [
+        "Result"
+      ],
+      "properties": {
+        "text": "[24] use L1 loss to optimize their network models for achieving improved performance."
+      }
+    },
+    {
+      "id": 268,
+      "labels": [
+        "Result"
+      ],
+      "properties": {
+        "text": "[34] datasets to push our SR models to the best performance."
+      }
+    },
+    {
+      "id": 269,
+      "labels": [
+        "Result"
+      ],
+      "properties": {
+        "text": "Inspired by the promising performance of deep neural networks in classification and regression tasks, Dong et al."
+      }
+    },
+    {
+      "id": 270,
+      "labels": [
+        "Result"
+      ],
+      "properties": {
+        "text": "The performance of the transposed convolutional network (purple curve) is significantly worse than the network with a fully connected layer."
+      }
+    },
+    {
+      "id": 271,
+      "labels": [
+        "Result"
+      ],
+      "properties": {
+        "text": "To make effective use of the extracted features and improve reconstruction accuracy, we propose a fully connected reconstruction layer to differentially utilize the extracted feature information over the global region."
+      }
+    },
+    {
+      "id": 272,
+      "labels": [
+        "Result"
+      ],
+      "properties": {
+        "text": "Delving deep intorectifiers: Surpassing human-level performance on ImageNet classification."
+      }
+    },
+    {
+      "id": 273,
+      "labels": [
+        "Result"
+      ],
+      "properties": {
+        "text": "Furthermore, SR performance metrics including the peak signal-to-noise ratio (PSNR) and structural similarity (SSIM) are adopted to evaluate the objective quality of reconstructed HR 4.1 Investigation of the network model In this section, we perform experiments to analyze the property of the proposed network and confirm the contributions of the different components of our networks for the accuracy of SR reconstruction."
+      }
+    },
+    {
+      "id": 274,
+      "labels": [
+        "Result"
+      ],
+      "properties": {
+        "text": "Since L2 loss is the major performance measure (PNSR) for those problem, the trained models usually have impressive performance in terms of objective measure."
+      }
+    },
+    {
+      "id": 275,
+      "labels": [
+        "Result"
+      ],
+      "properties": {
+        "text": "Deep residual networks [1] have emerged as a family of extremely deep architectures showing compelling accuracy and nice convergence behaviors in computer vision, machine translation, speech synthesis, speech recognition."
+      }
+    },
+    {
+      "id": 276,
+      "labels": [
+        "Result"
+      ],
+      "properties": {
+        "text": "Experimental results on the images, drawn from five representative image datasets, demonstrate that the proposed networks perform competitively with the existing methods in terms of balancing the reconstruction accuracy and This work was supported by Key Projects of the National Science and Technology Program, China (Grant No. 2013GS500303), the Key Science and Technology Projects of CSTC, China (Grant Nos."
+      }
+    },
+    {
+      "id": 277,
+      "labels": [
+        "Result"
+      ],
+      "properties": {
+        "text": "The SR model with our residual units (yellow curve) has better convergence stability and accuracy."
+      }
+    },
+    {
+      "id": 278,
+      "labels": [
+        "Result"
+      ],
+      "properties": {
+        "text": "The fine- tuning is fast, and the performance is as good as training from scratch (see Section 4.1)."
+      }
+    },
+    {
+      "id": 279,
+      "labels": [
+        "Result"
+      ],
+      "properties": {
+        "text": "In addition, considering that big data can push a deep model to the best performance, we also use images from DIV2K"
+      }
+    },
+    {
+      "id": 280,
+      "labels": [
+        "Result"
+      ],
+      "properties": {
+        "text": "Red color indicates the best performance and blue color indicates the second-best performance."
+      }
+    },
+    {
+      "id": 281,
+      "labels": [
+        "Result"
+      ],
+      "properties": {
+        "text": "In the following experiments, we only train the networks from scratch for \u00d7 3, and fine-tune the corresponding reconstruction layers for \u00d7 2 and \u00d7 4. 4.2 Comparisons with the state-of-the-arts methods To validate the performance of the proposed method, the image SR experiments of different scaling factors (\u00d72, \u00d73 and \u00d74) are performed on all the images in the five representative image datasets Set5, Set14, BSD100, Urban100 and Manga109"
+      }
+    },
+    {
+      "id": 282,
+      "labels": [
+        "Result"
+      ],
+      "properties": {
+        "text": "Although the deep residual architecture has been successfully applied to the image SR problem and exhibited excellent performance [23, 24], we further improve the performance by employing a new residual unit which makes training easiness and reduces training error."
+      }
+    },
+    {
+      "id": 283,
+      "labels": [
+        "Paper"
+      ],
+      "properties": {
+        "title": "[36]"
+      }
+    },
+    {
+      "id": 284,
+      "labels": [
+        "Paper"
+      ],
+      "properties": {
+        "title": "[37]"
+      }
+    },
+    {
+      "id": 285,
+      "labels": [
+        "Paper"
+      ],
+      "properties": {
+        "title": "[35]"
+      }
+    },
+    {
+      "id": 286,
+      "labels": [
+        "Paper"
+      ],
+      "properties": {
+        "title": "[34]"
+      }
+    },
+    {
+      "id": 287,
+      "labels": [
+        "Paper"
+      ],
+      "properties": {
+        "title": "[38]"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "type": "WROTE",
+      "start": 1,
+      "end": 0,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 2,
+      "end": 0,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 3,
+      "end": 0,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 4,
+      "end": 0,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 5,
+      "end": 0,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 6,
+      "end": 0,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 7,
+      "end": 0,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 8,
+      "end": 0,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 9,
+      "end": 0,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 10,
+      "end": 0,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 11,
+      "end": 0,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 12,
+      "end": 0,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 13,
+      "end": 0,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 14,
+      "end": 0,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 15,
+      "end": 0,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 16,
+      "end": 0,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 17,
+      "end": 0,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 18,
+      "end": 0,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 19,
+      "end": 0,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 20,
+      "end": 0,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 21,
+      "end": 0,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 22,
+      "end": 0,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 23,
+      "end": 0,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 24,
+      "end": 0,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 25,
+      "end": 0,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 26,
+      "end": 0,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 27,
+      "end": 0,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 28,
+      "end": 0,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 29,
+      "end": 0,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 30,
+      "end": 0,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 31,
+      "end": 0,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 32,
+      "end": 0,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 33,
+      "end": 0,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 34,
+      "end": 0,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 35,
+      "end": 0,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 36,
+      "end": 0,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 37,
+      "end": 0,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 38,
+      "end": 0,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 39,
+      "end": 0,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 40,
+      "end": 0,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 41,
+      "end": 0,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 42,
+      "end": 0,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 43,
+      "end": 0,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 44,
+      "end": 0,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 45,
+      "end": 0,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 46,
+      "end": 0,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 47,
+      "end": 0,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 48,
+      "end": 0,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 49,
+      "end": 0,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 50,
+      "end": 0,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 51,
+      "end": 0,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 52,
+      "end": 0,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 53,
+      "end": 0,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 54,
+      "end": 0,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 55,
+      "end": 0,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 56,
+      "end": 0,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 57,
+      "end": 0,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 58,
+      "end": 0,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 59,
+      "end": 0,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 60,
+      "end": 0,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 61,
+      "end": 0,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 62,
+      "end": 0,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 63,
+      "end": 0,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 64,
+      "end": 0,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 65,
+      "end": 0,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 66,
+      "end": 0,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 67,
+      "end": 0,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 68,
+      "end": 0,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 69,
+      "end": 0,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 70,
+      "end": 0,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 71,
+      "end": 0,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 72,
+      "end": 0,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 73,
+      "end": 0,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 74,
+      "end": 0,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 75,
+      "end": 0,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 76,
+      "end": 0,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 77,
+      "end": 0,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 78,
+      "end": 0,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 79,
+      "end": 0,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 80,
+      "end": 0,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 81,
+      "end": 0,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 82,
+      "end": 0,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 83,
+      "end": 0,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 84,
+      "end": 0,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 85,
+      "end": 0,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 86,
+      "end": 0,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 87,
+      "end": 0,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 88,
+      "end": 0,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 89,
+      "end": 0,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 90,
+      "end": 0,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 91,
+      "end": 0,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 92,
+      "end": 0,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 93,
+      "end": 0,
+      "properties": {}
+    },
+    {
+      "type": "HAS_RESULT",
+      "start": 0,
+      "end": 94,
+      "properties": {}
+    },
+    {
+      "type": "CITES",
+      "start": 0,
+      "end": 95,
+      "properties": {}
+    },
+    {
+      "type": "CITES",
+      "start": 0,
+      "end": 96,
+      "properties": {}
+    },
+    {
+      "type": "CITES",
+      "start": 0,
+      "end": 97,
+      "properties": {}
+    },
+    {
+      "type": "CITES",
+      "start": 0,
+      "end": 98,
+      "properties": {}
+    },
+    {
+      "type": "CITES",
+      "start": 0,
+      "end": 99,
+      "properties": {}
+    },
+    {
+      "type": "CITES",
+      "start": 0,
+      "end": 100,
+      "properties": {}
+    },
+    {
+      "type": "CITES",
+      "start": 0,
+      "end": 101,
+      "properties": {}
+    },
+    {
+      "type": "CITES",
+      "start": 0,
+      "end": 102,
+      "properties": {}
+    },
+    {
+      "type": "CITES",
+      "start": 0,
+      "end": 103,
+      "properties": {}
+    },
+    {
+      "type": "CITES",
+      "start": 0,
+      "end": 104,
+      "properties": {}
+    },
+    {
+      "type": "CITES",
+      "start": 0,
+      "end": 105,
+      "properties": {}
+    },
+    {
+      "type": "CITES",
+      "start": 0,
+      "end": 106,
+      "properties": {}
+    },
+    {
+      "type": "CITES",
+      "start": 0,
+      "end": 107,
+      "properties": {}
+    },
+    {
+      "type": "CITES",
+      "start": 0,
+      "end": 108,
+      "properties": {}
+    },
+    {
+      "type": "CITES",
+      "start": 0,
+      "end": 109,
+      "properties": {}
+    },
+    {
+      "type": "CITES",
+      "start": 0,
+      "end": 110,
+      "properties": {}
+    },
+    {
+      "type": "CITES",
+      "start": 0,
+      "end": 111,
+      "properties": {}
+    },
+    {
+      "type": "CITES",
+      "start": 0,
+      "end": 112,
+      "properties": {}
+    },
+    {
+      "type": "CITES",
+      "start": 0,
+      "end": 113,
+      "properties": {}
+    },
+    {
+      "type": "CITES",
+      "start": 0,
+      "end": 114,
+      "properties": {}
+    },
+    {
+      "type": "CITES",
+      "start": 0,
+      "end": 115,
+      "properties": {}
+    },
+    {
+      "type": "CITES",
+      "start": 0,
+      "end": 116,
+      "properties": {}
+    },
+    {
+      "type": "CITES",
+      "start": 0,
+      "end": 117,
+      "properties": {}
+    },
+    {
+      "type": "CITES",
+      "start": 0,
+      "end": 118,
+      "properties": {}
+    },
+    {
+      "type": "CITES",
+      "start": 0,
+      "end": 119,
+      "properties": {}
+    },
+    {
+      "type": "CITES",
+      "start": 0,
+      "end": 120,
+      "properties": {}
+    },
+    {
+      "type": "CITES",
+      "start": 0,
+      "end": 121,
+      "properties": {}
+    },
+    {
+      "type": "CITES",
+      "start": 0,
+      "end": 122,
+      "properties": {}
+    },
+    {
+      "type": "CITES",
+      "start": 0,
+      "end": 123,
+      "properties": {}
+    },
+    {
+      "type": "CITES",
+      "start": 0,
+      "end": 124,
+      "properties": {}
+    },
+    {
+      "type": "CITES",
+      "start": 0,
+      "end": 125,
+      "properties": {}
+    },
+    {
+      "type": "CITES",
+      "start": 0,
+      "end": 126,
+      "properties": {}
+    },
+    {
+      "type": "CITES",
+      "start": 0,
+      "end": 127,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 129,
+      "end": 128,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 130,
+      "end": 128,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 131,
+      "end": 128,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 132,
+      "end": 128,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 133,
+      "end": 128,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 134,
+      "end": 128,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 135,
+      "end": 128,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 136,
+      "end": 128,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 137,
+      "end": 128,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 138,
+      "end": 128,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 139,
+      "end": 128,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 140,
+      "end": 128,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 141,
+      "end": 128,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 142,
+      "end": 128,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 143,
+      "end": 128,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 144,
+      "end": 128,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 145,
+      "end": 128,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 146,
+      "end": 128,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 147,
+      "end": 128,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 148,
+      "end": 128,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 149,
+      "end": 128,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 150,
+      "end": 128,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 151,
+      "end": 128,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 152,
+      "end": 128,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 153,
+      "end": 128,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 154,
+      "end": 128,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 155,
+      "end": 128,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 156,
+      "end": 128,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 157,
+      "end": 128,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 158,
+      "end": 128,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 159,
+      "end": 128,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 160,
+      "end": 128,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 161,
+      "end": 128,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 162,
+      "end": 128,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 163,
+      "end": 128,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 164,
+      "end": 128,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 165,
+      "end": 128,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 166,
+      "end": 128,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 167,
+      "end": 128,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 168,
+      "end": 128,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 169,
+      "end": 128,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 170,
+      "end": 128,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 171,
+      "end": 128,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 172,
+      "end": 128,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 173,
+      "end": 128,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 174,
+      "end": 128,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 175,
+      "end": 128,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 176,
+      "end": 128,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 177,
+      "end": 128,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 178,
+      "end": 128,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 179,
+      "end": 128,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 180,
+      "end": 128,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 181,
+      "end": 128,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 182,
+      "end": 128,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 183,
+      "end": 128,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 184,
+      "end": 128,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 185,
+      "end": 128,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 186,
+      "end": 128,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 187,
+      "end": 128,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 188,
+      "end": 128,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 189,
+      "end": 128,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 190,
+      "end": 128,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 191,
+      "end": 128,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 192,
+      "end": 128,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 193,
+      "end": 128,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 194,
+      "end": 128,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 195,
+      "end": 128,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 196,
+      "end": 128,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 197,
+      "end": 128,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 198,
+      "end": 128,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 199,
+      "end": 128,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 200,
+      "end": 128,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 201,
+      "end": 128,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 202,
+      "end": 128,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 203,
+      "end": 128,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 204,
+      "end": 128,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 205,
+      "end": 128,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 206,
+      "end": 128,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 207,
+      "end": 128,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 208,
+      "end": 128,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 209,
+      "end": 128,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 210,
+      "end": 128,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 211,
+      "end": 128,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 212,
+      "end": 128,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 213,
+      "end": 128,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 214,
+      "end": 128,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 215,
+      "end": 128,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 216,
+      "end": 128,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 217,
+      "end": 128,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 218,
+      "end": 128,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 219,
+      "end": 128,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 220,
+      "end": 128,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 221,
+      "end": 128,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 222,
+      "end": 128,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 223,
+      "end": 128,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 224,
+      "end": 128,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 225,
+      "end": 128,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 226,
+      "end": 128,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 227,
+      "end": 128,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 228,
+      "end": 128,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 229,
+      "end": 128,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 230,
+      "end": 128,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 231,
+      "end": 128,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 232,
+      "end": 128,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 233,
+      "end": 128,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 234,
+      "end": 128,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 235,
+      "end": 128,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 236,
+      "end": 128,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 237,
+      "end": 128,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 238,
+      "end": 128,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 239,
+      "end": 128,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 240,
+      "end": 128,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 241,
+      "end": 128,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 242,
+      "end": 128,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 243,
+      "end": 128,
+      "properties": {}
+    },
+    {
+      "type": "WROTE",
+      "start": 244,
+      "end": 128,
+      "properties": {}
+    },
+    {
+      "type": "USES_METHOD",
+      "start": 128,
+      "end": 245,
+      "properties": {}
+    },
+    {
+      "type": "USES_METHOD",
+      "start": 128,
+      "end": 246,
+      "properties": {}
+    },
+    {
+      "type": "HAS_RESULT",
+      "start": 128,
+      "end": 247,
+      "properties": {}
+    },
+    {
+      "type": "HAS_RESULT",
+      "start": 128,
+      "end": 248,
+      "properties": {}
+    },
+    {
+      "type": "HAS_RESULT",
+      "start": 128,
+      "end": 249,
+      "properties": {}
+    },
+    {
+      "type": "HAS_RESULT",
+      "start": 128,
+      "end": 250,
+      "properties": {}
+    },
+    {
+      "type": "HAS_RESULT",
+      "start": 128,
+      "end": 251,
+      "properties": {}
+    },
+    {
+      "type": "HAS_RESULT",
+      "start": 128,
+      "end": 252,
+      "properties": {}
+    },
+    {
+      "type": "HAS_RESULT",
+      "start": 128,
+      "end": 253,
+      "properties": {}
+    },
+    {
+      "type": "HAS_RESULT",
+      "start": 128,
+      "end": 254,
+      "properties": {}
+    },
+    {
+      "type": "HAS_RESULT",
+      "start": 128,
+      "end": 255,
+      "properties": {}
+    },
+    {
+      "type": "HAS_RESULT",
+      "start": 128,
+      "end": 256,
+      "properties": {}
+    },
+    {
+      "type": "HAS_RESULT",
+      "start": 128,
+      "end": 257,
+      "properties": {}
+    },
+    {
+      "type": "HAS_RESULT",
+      "start": 128,
+      "end": 258,
+      "properties": {}
+    },
+    {
+      "type": "HAS_RESULT",
+      "start": 128,
+      "end": 259,
+      "properties": {}
+    },
+    {
+      "type": "HAS_RESULT",
+      "start": 128,
+      "end": 260,
+      "properties": {}
+    },
+    {
+      "type": "HAS_RESULT",
+      "start": 128,
+      "end": 261,
+      "properties": {}
+    },
+    {
+      "type": "HAS_RESULT",
+      "start": 128,
+      "end": 262,
+      "properties": {}
+    },
+    {
+      "type": "HAS_RESULT",
+      "start": 128,
+      "end": 263,
+      "properties": {}
+    },
+    {
+      "type": "HAS_RESULT",
+      "start": 128,
+      "end": 264,
+      "properties": {}
+    },
+    {
+      "type": "HAS_RESULT",
+      "start": 128,
+      "end": 265,
+      "properties": {}
+    },
+    {
+      "type": "HAS_RESULT",
+      "start": 128,
+      "end": 266,
+      "properties": {}
+    },
+    {
+      "type": "HAS_RESULT",
+      "start": 128,
+      "end": 267,
+      "properties": {}
+    },
+    {
+      "type": "HAS_RESULT",
+      "start": 128,
+      "end": 268,
+      "properties": {}
+    },
+    {
+      "type": "HAS_RESULT",
+      "start": 128,
+      "end": 269,
+      "properties": {}
+    },
+    {
+      "type": "HAS_RESULT",
+      "start": 128,
+      "end": 270,
+      "properties": {}
+    },
+    {
+      "type": "HAS_RESULT",
+      "start": 128,
+      "end": 271,
+      "properties": {}
+    },
+    {
+      "type": "HAS_RESULT",
+      "start": 128,
+      "end": 272,
+      "properties": {}
+    },
+    {
+      "type": "HAS_RESULT",
+      "start": 128,
+      "end": 273,
+      "properties": {}
+    },
+    {
+      "type": "HAS_RESULT",
+      "start": 128,
+      "end": 274,
+      "properties": {}
+    },
+    {
+      "type": "HAS_RESULT",
+      "start": 128,
+      "end": 275,
+      "properties": {}
+    },
+    {
+      "type": "HAS_RESULT",
+      "start": 128,
+      "end": 276,
+      "properties": {}
+    },
+    {
+      "type": "HAS_RESULT",
+      "start": 128,
+      "end": 277,
+      "properties": {}
+    },
+    {
+      "type": "HAS_RESULT",
+      "start": 128,
+      "end": 278,
+      "properties": {}
+    },
+    {
+      "type": "HAS_RESULT",
+      "start": 128,
+      "end": 279,
+      "properties": {}
+    },
+    {
+      "type": "HAS_RESULT",
+      "start": 128,
+      "end": 280,
+      "properties": {}
+    },
+    {
+      "type": "HAS_RESULT",
+      "start": 128,
+      "end": 281,
+      "properties": {}
+    },
+    {
+      "type": "HAS_RESULT",
+      "start": 128,
+      "end": 282,
+      "properties": {}
+    },
+    {
+      "type": "CITES",
+      "start": 128,
+      "end": 95,
+      "properties": {}
+    },
+    {
+      "type": "CITES",
+      "start": 128,
+      "end": 96,
+      "properties": {}
+    },
+    {
+      "type": "CITES",
+      "start": 128,
+      "end": 97,
+      "properties": {}
+    },
+    {
+      "type": "CITES",
+      "start": 128,
+      "end": 98,
+      "properties": {}
+    },
+    {
+      "type": "CITES",
+      "start": 128,
+      "end": 125,
+      "properties": {}
+    },
+    {
+      "type": "CITES",
+      "start": 128,
+      "end": 283,
+      "properties": {}
+    },
+    {
+      "type": "CITES",
+      "start": 128,
+      "end": 100,
+      "properties": {}
+    },
+    {
+      "type": "CITES",
+      "start": 128,
+      "end": 101,
+      "properties": {}
+    },
+    {
+      "type": "CITES",
+      "start": 128,
+      "end": 102,
+      "properties": {}
+    },
+    {
+      "type": "CITES",
+      "start": 128,
+      "end": 103,
+      "properties": {}
+    },
+    {
+      "type": "CITES",
+      "start": 128,
+      "end": 104,
+      "properties": {}
+    },
+    {
+      "type": "CITES",
+      "start": 128,
+      "end": 284,
+      "properties": {}
+    },
+    {
+      "type": "CITES",
+      "start": 128,
+      "end": 105,
+      "properties": {}
+    },
+    {
+      "type": "CITES",
+      "start": 128,
+      "end": 285,
+      "properties": {}
+    },
+    {
+      "type": "CITES",
+      "start": 128,
+      "end": 106,
+      "properties": {}
+    },
+    {
+      "type": "CITES",
+      "start": 128,
+      "end": 107,
+      "properties": {}
+    },
+    {
+      "type": "CITES",
+      "start": 128,
+      "end": 108,
+      "properties": {}
+    },
+    {
+      "type": "CITES",
+      "start": 128,
+      "end": 109,
+      "properties": {}
+    },
+    {
+      "type": "CITES",
+      "start": 128,
+      "end": 286,
+      "properties": {}
+    },
+    {
+      "type": "CITES",
+      "start": 128,
+      "end": 110,
+      "properties": {}
+    },
+    {
+      "type": "CITES",
+      "start": 128,
+      "end": 111,
+      "properties": {}
+    },
+    {
+      "type": "CITES",
+      "start": 128,
+      "end": 112,
+      "properties": {}
+    },
+    {
+      "type": "CITES",
+      "start": 128,
+      "end": 113,
+      "properties": {}
+    },
+    {
+      "type": "CITES",
+      "start": 128,
+      "end": 114,
+      "properties": {}
+    },
+    {
+      "type": "CITES",
+      "start": 128,
+      "end": 115,
+      "properties": {}
+    },
+    {
+      "type": "CITES",
+      "start": 128,
+      "end": 116,
+      "properties": {}
+    },
+    {
+      "type": "CITES",
+      "start": 128,
+      "end": 117,
+      "properties": {}
+    },
+    {
+      "type": "CITES",
+      "start": 128,
+      "end": 118,
+      "properties": {}
+    },
+    {
+      "type": "CITES",
+      "start": 128,
+      "end": 119,
+      "properties": {}
+    },
+    {
+      "type": "CITES",
+      "start": 128,
+      "end": 120,
+      "properties": {}
+    },
+    {
+      "type": "CITES",
+      "start": 128,
+      "end": 287,
+      "properties": {}
+    },
+    {
+      "type": "CITES",
+      "start": 128,
+      "end": 121,
+      "properties": {}
+    },
+    {
+      "type": "CITES",
+      "start": 128,
+      "end": 122,
+      "properties": {}
+    },
+    {
+      "type": "CITES",
+      "start": 128,
+      "end": 123,
+      "properties": {}
+    },
+    {
+      "type": "CITES",
+      "start": 128,
+      "end": 126,
+      "properties": {}
+    },
+    {
+      "type": "CITES",
+      "start": 128,
+      "end": 99,
+      "properties": {}
+    },
+    {
+      "type": "CITES",
+      "start": 128,
+      "end": 124,
+      "properties": {}
+    },
+    {
+      "type": "CITES",
+      "start": 128,
+      "end": 127,
+      "properties": {}
+    }
+  ]
+}
